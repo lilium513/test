@@ -1,11 +1,11 @@
-package dog;
+ï»¿package dog;
 
 public class Dog {
-	private String nakigoe = "‚É‚á[‚ñ";
+	private String nakigoe = "ãƒ¯ãƒ³ã€ãƒ¯ãƒ³ãƒ¯ãƒ³";
 	private String name;
 	
 	public Dog() {
-		name = "Œ¢";
+		name = "çŠ¬å±±";
 	}
 	
 	public Dog(string name) {
